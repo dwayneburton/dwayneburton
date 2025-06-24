@@ -1,10 +1,11 @@
 ### Hey there! 👋
 
-I'm **Dwayne Burton**, an **Electical Engineering** student at the **University of Waterloo** ⚡, pursuing a **Software Engineering Minor** 💻. I have a passion for programming, especially when it comes to designing and automating hardware & software systems.
+I'm **Dwayne Burton**, an **Electical Engineering** student at the **University of Waterloo** ⚡, pursuing a **Software Engineering Minor** 💻.  
+I have a passion for programming, especially when it comes to designing and automating hardware & software systems.
 
-💡 **Experience:**
-- Silicon CAD Hardware Engineering Intern 🛠️ – Developed EDA flows, methodologies & scripts for integrated circuit (IC) design.
-- Electrical Engineering Intern 🔌 – Worked on electrical budgets, designs & coordinated construction projects.
+💡 **Previous Experience:**
+- Silicon CAD Hardware Engineering Intern @ [Untether AI](https://www.untether.ai) 🛠️ – Developed EDA flows, methodologies & scripts for ASIC design.
+- Electrical Engineering Intern @ [Plan Group](https://www.plan-group.com) 🔌 – Worked on electrical budgets, designs & coordinated construction projects.
 
 Always learning, building, and experimenting 🚀!
 
