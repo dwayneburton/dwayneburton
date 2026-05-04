@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm **Dwayne Burton**, an **Electrical Engineering** student at the **University of Waterloo** ⚡, pursuing a Minor in **Computer Engineering**.
+I'm **Dwayne Burton**, an **Electrical Engineering** student at the **University of Waterloo** pursuing a Minor in **Computer Engineering**.
 
 💡 **Previous Experience:**
 - Equity Options Trading Intern @ [TD Securities](https://www.tdsecurities.com/us/en/global-markets#Tab_Equities) 📈 – Automated analytics, risk monitoring & tools for equity derivatives trading.
